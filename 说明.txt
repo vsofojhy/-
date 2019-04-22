@@ -1,0 +1,10 @@
+1.代码生成框架 ，仓储设计
+   ----Entity
+   ----IRepository
+   ----Repository
+ 
+2.访问层要引用 Dapper,WEB要引用 Autoface /Dapper
+
+3.WEB项目 添加 WEB目录下的代码，并在Startup.cs中注入，详情查看参考代码目录的Startup.cs
+
+
